@@ -1,2 +1,2 @@
 ---
-apt-transport-https: true
+apt_transport_https: true
